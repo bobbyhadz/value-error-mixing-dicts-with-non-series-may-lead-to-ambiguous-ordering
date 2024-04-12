@@ -1,0 +1,11 @@
+{
+  "status": {
+    "code": 200,
+    "message": "OK"
+  },
+  "body": [
+    {"name": "Alice", "salary": 100},
+    {"name": "Bobby", "salary": 50},
+    {"name": "Carl", "salary": 75}
+  ]
+}
